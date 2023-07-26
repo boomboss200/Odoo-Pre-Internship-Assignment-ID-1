@@ -14,8 +14,6 @@ Here all the real estate properties information and listing will show in these v
 Shows all the property lisitng and quick information on the specific row.<br/>
 ![Property2](./picture/18.png)
 
-**One2many**: One Property can have many Offers from Buyers <br/>
-![Property3](./picture/3.png)
 
 **Description**: Complete Description about the property along with the calculated area functions <br/>
 ![Property3](./picture/18.png)
