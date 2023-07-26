@@ -39,6 +39,9 @@ Search Module even in App filter<br/>
 
 ![Search2](./picture/8.png)
 
+Customized Top menu items with appropriate actions 
+![Search3](./picture/12.png)
+
 ## 3. Marking Status of the Property:
 
 Setting the property as sold and cancelled using appropriate constrainst by just on click <br/>
