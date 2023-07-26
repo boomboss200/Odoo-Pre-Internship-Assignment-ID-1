@@ -17,39 +17,50 @@ Shows all the property lisitng and quick information on the specific row.<br/>
 **One2many**: One Property can have many Offers from Buyers <br/>
 ![Property3](./picture/3.png)
 
+**Description**: Complete Description about the property along with the calculated area functions <br/>
+![Property3](./picture/3.png)
+
 ## 1. estate_property_offer model & view:
 
-Here all the Doctors information will show and there is an option for creating new Doctor information.<br/>
+Seperate Offers tab for Viewing and Lisitng new Offers with appropriate constrainst and actions <br/>
 
-![Doctors1](./picture/4.png)
-![Doctors2](./picture/5.png)
-![Doctors3](./picture/7.png)
+![Offer1](./picture/4.png)
 
-Advanced map view is implemented for showing doctor's location.
-![Doctors4](./picture/6.png)
+Offer accepting and refusing buttons with just a click
+![Offer2](./picture/6.png)
 
-## 2. Department model & view:
+## 2. Search Filters:
 
-Here all the Department information will show and there is an option for creating new Department.<br/>
+Search Properties on the basis of postcode similarity <br/>
 
-![Department1](./picture/8.png)
+![Search1](./picture/8.png)
 
-## 3. Appointments model & view:
+Search Module even in App filter<br/>
 
-Here all the Appointments information will show and there is an option for creating new Appointments.<br/>
+![Search2](./picture/8.png)
 
-![Appointments1](./picture/9.png)
-![Appointments2](./picture/10.png)
-![Appointments3](./picture/11.png)
-Appointments list view:
-![Appointments4](./picture/12.png)
-Appointments kanban view:
-![Appointments5](./picture/13.png)
-Appointments calender view:
-![Appointments6](./picture/14.png)
-Appointments pivot view:
-![Appointments7](./picture/15.png)
-Appointments gantt view:
-![Appointments8](./picture/16.png)
-Appointments graph view:
-![Appointments9](./picture/17.
+## 3. Marking Status of the Property:
+
+Setting the property as sold and cancelled using appropriate constrainst by just on click <br/>
+
+![Status1](./picture/9.png)
+
+## 4. Tags for the Property:
+
+Quick Glancable tags for the property <br/>
+
+![Tag1](./picture/9.png)
+
+## 5. Odoo Version:
+
+Odoo version 16 (commnuity Edition) <br/>
+
+![Version1](./picture/9.png)
+
+All the development was done using Ubuntu OS running on Virtual Machine using UTM Software on MAC
+
+## 6. Submitted By:
+
+Behzad Khadim 
+email: bkicloud2001@gmail.com
+for AXiom World 
